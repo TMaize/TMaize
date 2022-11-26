@@ -4,8 +4,6 @@
 </span>
 <span>
   &nbsp;
-  &nbsp;
-  &nbsp;
 </span>
 <span>
   <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=TMaize&layout=compact&langs_count=8" alt="statistics">
